@@ -10,4 +10,12 @@
   <version>1.0.0</version>
   <name>¿Cómo averiguar si un número es par o impar?</name>
   <description>Dado un listado de números se necesita averiguar si un número dado es par o impar</description>
+  
+  <repositories>
+		<repository>
+			<id>programaconsaba-maven-repo</id>
+			<name>Maven repo en Git</name>
+			<url>https://raw.githubusercontent.com/programaconsaba/maven-repo/master/</url>
+		</repository>
+	</repositories>
 </project>
